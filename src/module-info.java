@@ -1,9 +1,2 @@
-/**
- * 
- */
-/**
- * @author Alunos IFCE Artes
- *
- */
-module CalcIMC {
+module GeoEspac {
 }
